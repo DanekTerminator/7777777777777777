@@ -11,7 +11,12 @@ Password: 12345
 Термины
 ![image](https://user-images.githubusercontent.com/90379312/189851266-8a79e436-f5d1-4e8e-85ae-34e1d4e83f97.png)
 ![image](https://user-images.githubusercontent.com/90379312/189851745-bcd3d562-408f-4740-a773-4e65b8eb07f5.png)
+![image](https://user-images.githubusercontent.com/90379312/189872906-b462fcf0-9bf3-4a65-852a-902bd1001ff7.png)
+Отключать Auto Incriment если: у нас паспортные данные
 
+Связи: Один ко многим = внешний ключ(таблица у которой слово "один" выбираем первичный ключ, и ведём связь к столбцу таблицы "много". В ОДНОЙ стране МНОГО отель), Многие ко многим = многим людям нравятся много книг, отдельная таблица с двумя первичными кючами
+
+Типы данных: int, date, float,binary,bit,char,datetime,image,money,varchar,nvarchar
 
 
 
