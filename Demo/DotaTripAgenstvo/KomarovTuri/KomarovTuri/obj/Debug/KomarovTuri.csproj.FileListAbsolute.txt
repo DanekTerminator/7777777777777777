@@ -1,0 +1,12 @@
+C:\Users\daimo\Desktop\111\7sem\demoekzam\import data\touragency\KomarovTuri\KomarovTuri\obj\Debug\KomarovTuri.csproj.AssemblyReference.cache
+C:\Users\daimo\Desktop\111\7sem\demoekzam\import data\touragency\KomarovTuri\KomarovTuri\obj\Debug\KomarovTuri.csproj.SuggestedBindingRedirects.cache
+C:\Users\daimo\Desktop\111\7sem\demoekzam\import data\touragency\KomarovTuri\KomarovTuri\obj\Debug\Pages\AddEditPage.g.cs
+C:\Users\daimo\Desktop\111\7sem\demoekzam\import data\touragency\KomarovTuri\KomarovTuri\obj\Debug\Pages\Administrator.g.cs
+C:\Users\daimo\Desktop\111\7sem\demoekzam\import data\touragency\KomarovTuri\KomarovTuri\obj\Debug\Pages\HotelsPage.g.cs
+C:\Users\daimo\Desktop\111\7sem\demoekzam\import data\touragency\KomarovTuri\KomarovTuri\obj\Debug\Pages\MainWindow.g.cs
+C:\Users\daimo\Desktop\111\7sem\demoekzam\import data\touragency\KomarovTuri\KomarovTuri\obj\Debug\Pages\Mangerrr.g.cs
+C:\Users\daimo\Desktop\111\7sem\demoekzam\import data\touragency\KomarovTuri\KomarovTuri\obj\Debug\Pages\ServicePage.g.cs
+C:\Users\daimo\Desktop\111\7sem\demoekzam\import data\touragency\KomarovTuri\KomarovTuri\obj\Debug\App.g.cs
+C:\Users\daimo\Desktop\111\7sem\demoekzam\import data\touragency\KomarovTuri\KomarovTuri\obj\Debug\KomarovTuri_Content.g.cs
+C:\Users\daimo\Desktop\111\7sem\demoekzam\import data\touragency\KomarovTuri\KomarovTuri\obj\Debug\KomarovTuri_MarkupCompile.cache
+C:\Users\daimo\Desktop\111\7sem\demoekzam\import data\touragency\KomarovTuri\KomarovTuri\obj\Debug\KomarovTuri_MarkupCompile.lref
