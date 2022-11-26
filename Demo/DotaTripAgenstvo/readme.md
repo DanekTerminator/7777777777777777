@@ -21,3 +21,28 @@
 После 15 секунд выбрасывает в главное меню
 
 ![image](https://user-images.githubusercontent.com/90379312/204084361-e8a9143e-fe37-4030-847f-357dbe52cf2e.png)
+
+Таблица ролей
+
+![image](https://user-images.githubusercontent.com/90379312/204084617-399b541d-a121-44c9-9c5f-0d991501f257.png)
+
+Таблица пользователей
+
+![image](https://user-images.githubusercontent.com/90379312/204084626-b4236813-694e-4c4c-aff1-c3bd63957bfe.png)
+
+Отели
+
+![image](https://user-images.githubusercontent.com/90379312/204084637-964edfa4-185b-41b6-a668-1b3c3f7acb3d.png)
+
+Типы туров
+
+![image](https://user-images.githubusercontent.com/90379312/204084757-ce34be9f-f441-4f77-b264-c566d583e5f0.png)
+
+Туры
+
+![image](https://user-images.githubusercontent.com/90379312/204084783-84bba843-cddb-4432-a312-7adc0da562d9.png)
+
+
+Диаграмма
+
+![image](https://user-images.githubusercontent.com/90379312/204084728-779e489e-7c57-42b8-aa78-eca3cec6fc88.png)
