@@ -13,3 +13,7 @@
 # Вывод студентов женского пола
 
 ![image](https://user-images.githubusercontent.com/73188898/205070471-2a3429bf-a540-4853-a290-f207dfd18001.png)
+
+# Залил задания с помощью гит баш
+
+![image](https://user-images.githubusercontent.com/90379312/205487212-a571b44d-947d-40d0-8094-8b13784c65e2.png)
