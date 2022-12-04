@@ -13,3 +13,7 @@
 # Вывод студентов женского пола
 
 ![image](https://user-images.githubusercontent.com/73188898/205070471-2a3429bf-a540-4853-a290-f207dfd18001.png)
+
+# Установка нужных пакетов для работы pytest
+
+![image](https://user-images.githubusercontent.com/90379312/205486578-7014ad22-94b3-410c-b5a0-3e8c6547fc26.png)
