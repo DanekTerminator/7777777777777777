@@ -1,0 +1,41 @@
+﻿<Window x:Class="DotaTrip.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DotaTrip"
+        mc:Ignorable="d"
+        Title="DotaTrip" MinHeight="1000" Width="800">
+    <Grid>
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <LinearGradientBrush.RelativeTransform>
+                    <TransformGroup>
+                        <ScaleTransform CenterY="0.5" CenterX="0.5"/>
+                        <SkewTransform CenterX="0.5" CenterY="0.5"/>
+                        <RotateTransform Angle="-90" CenterX="0.5" CenterY="0.5"/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </LinearGradientBrush.RelativeTransform>
+
+            </LinearGradientBrush>
+        </Grid.Background>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="75"/>
+            <RowDefinition Height="0*"/>
+            <RowDefinition Height="30*"/>
+        </Grid.RowDefinitions>
+        <Image Source="/DotaTrip;component/Resources/dotaiconnn.jpg" HorizontalAlignment="Left" Width="80" Height="80"/>
+
+        <Button Content="Назад" Name="BtnBack" Width="175" Height="30" HorizontalAlignment="Right" Click="BtnBack_Click" Background="#00FFA5BD"/>
+        <TextBlock Text="DotaTrip" FontSize="48" HorizontalAlignment="Left" VerticalAlignment="Top" Height="52" Margin="85,8,0,0" Width="296" FontFamily="Impact"/>
+        <Grid Panel.ZIndex="-2" Height="96" VerticalAlignment="Top"/>
+        <Grid Background="#2DCDCD" Grid.RowSpan="2" Grid.Row="1"/>
+        <Frame NavigationUIVisibility="Hidden" ContentRendered="MainFrame_ContentRendered" Grid.Row="3"  Name="MainFrame" Grid.RowSpan="2" >
+            <Frame.Background>
+                <ImageBrush ImageSource="/Resources/dotawall.jpg"/>
+            </Frame.Background>
+        </Frame>
+
+    </Grid>
+</Window>
